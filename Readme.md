@@ -1,4 +1,4 @@
-Sure! Here's an example of a README file for the project:
+
 
 # Hourly Bike Rental Demand Analyzer
 
