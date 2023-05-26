@@ -15,6 +15,7 @@ This is a web application built using Python and Streamlit that analyzes and pre
 - Make predictions based on user-defined input
 
 ## Installation
+
 1. Clone the repository:
 
 ```
