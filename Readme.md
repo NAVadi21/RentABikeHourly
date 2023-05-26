@@ -12,7 +12,6 @@ This is a web application built using Python and Streamlit that analyzes and pre
 - Analyze bike rental demand over time using line plots
 - Extract additional features like hour and day of the week
 - Build a linear regression model to predict bike rental demand
-- 
 - Make predictions based on user-defined input
 
 ## Installation
