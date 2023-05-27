@@ -45,7 +45,7 @@ streamlit run app.py
 
 ## Data
 
-The project uses the train and test data sets, which are provided in CSV format. The train data set contains historical data of bike rentals, while the test data set is used for prediction purposes.
+The project uses the train and test data sets, which are provided in CSV format. The train data set contains historical data of bike rentals, while the test data set is used for predicting purpose.
 
 ## Contributing
 
