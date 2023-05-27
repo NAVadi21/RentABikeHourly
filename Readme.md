@@ -2,7 +2,7 @@
 
 # Hourly Bike Rental Demand Analyzer
 
-This is a web application built using Python and Streamlit that analyzes and predicts the hourly bike rental demand based on various factors. It provides visualizations, statistical analysis, and a predictive model to understand and forecast bike rental patterns.
+This is a web application built using Python and Streamlit that analyzes and predicts the hourly bike rental demand based on various factors. It provides visualizations, statistical analysis, and a predictive model to understand and forecast the rental patterns for motorbikes.
 
 ## Features
 
