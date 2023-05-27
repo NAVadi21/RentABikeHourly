@@ -7,7 +7,7 @@ This is a web application built using Python and Streamlit that analyzes and pre
 
 - Visualize the train and test data sets
 - Explore basic statistics of the train data
-- View a heatmap of factors affecting bike rental demand
+- View the heatmap of factors affecting bike rental demand
 - Analyze bike rental demand over time using line plots
 - Extract additional features like hour and day of the week
 - Build a linear regression model to predict bike rental demand
