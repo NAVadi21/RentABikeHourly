@@ -20,7 +20,7 @@ st.title("")
 # uploaded_file2=st.sidebar.file_uploader("Choose a test file to upload")
 
 #Loading data sets which are in the form of csv files
-train_data = pd.read_csv('train.csv')
+train_data = pd.read_csv( 'train.csv' )
 test_data = pd.read_csv('test.csv')
 
 
