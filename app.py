@@ -81,6 +81,7 @@ ax.plot(train_data.head(30)['datetime'], train_data.head(30)['count'])
 plt.xticks(rotation='vertical')
 ax.set_xlabel('Date')
 ax.set_ylabel('Hourly bike rental demand')
+st.pyplot(fig)
 
 
 
