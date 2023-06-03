@@ -30,10 +30,12 @@ pip install -r requirements.txt
 ## Usage
 
 1. Navigate to the project directory:
+
 ```
 cd hourly-bike-rental-demand-analyzer
 ```
 2. Run the Streamlit application:
+
 ```
 streamlit run app.py
 ```
