@@ -107,6 +107,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.write(train_data.head())
+st.read(test_data.head())
 
 st.markdown(
     f"""
