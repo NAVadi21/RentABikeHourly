@@ -23,7 +23,7 @@ st.title("")
 #Loading data sets which are in the form of csv files
 train_data = pd.read_csv( 'train.csv' )
 test_data = pd.read_csv('test.csv')
-
+train_data pd.read_csv
 
 # Display Train data
 st.markdown(
